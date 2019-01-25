@@ -44,14 +44,15 @@ h1 {
   flex-direction: column;
   justify-content: space-around;
   align-items: center;
-  height: 200px;
-  width: 400px;
+  height: 220px;
+  width: 480px;
   margin: 10px;
   font-size: 1.2rem;
 }
 
 .nav-img {
   display: block;
+  filter: drop-shadow(5px 5px 5px #444444);
 }
 
 .nav-a {
